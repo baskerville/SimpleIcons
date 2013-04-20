@@ -27,8 +27,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="100.81221"
-     inkscape:cy="491.42857"
+     inkscape:cx="267.95507"
+     inkscape:cy="502.85714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,7 +38,13 @@
      inkscape:window-height="1028"
      inkscape:window-x="12"
      inkscape:window-y="36"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-center="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -69,13 +75,8 @@
      transform="translate(0,-28.362183)">
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 0,412.36218 c 85.333333,0 170.66667,0 256,0 85.33333,-85.33333 170.66667,-170.66667 256,-256 0,256 0,512 0,768 -85.33333,-85.33333 -170.66667,-170.66667 -256,-256 -85.33333,0 -170.666667,0 -256,0 0,-85.33333 0,-170.66667 0,-256 z"
-       id="path3006"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 541.72583,676.12668 677.49033,540.36218 541.72583,404.59768 632.2355,314.08801 768,449.85252 903.7645,314.08801 l 90.50967,90.50967 -135.7645,135.7645 135.7645,135.7645 L 903.7645,766.63635 768,630.87185 632.2355,766.63635 z"
-       id="path2993"
-       inkscape:connector-curvature="0" />
+       d="M 512 128 L 256 384 L 0 384 L 0 640 L 256 640 L 512 896 L 512 128 z M 661.96875 285.71875 L 571.4375 376.25 L 707.21875 512 L 571.4375 647.75 L 661.96875 738.28125 L 797.71875 602.5 L 933.5 738.28125 L 1024 647.75 L 888.25 512 L 1024 376.25 L 933.5 285.71875 L 797.71875 421.5 L 661.96875 285.71875 z "
+       transform="translate(0,28.362183)"
+       id="path3006" />
   </g>
 </svg>

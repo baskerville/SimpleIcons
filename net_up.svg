@@ -16,7 +16,7 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="net_up.svg">
   <title
-     id="title3053">u</title>
+     id="title3011">U</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="401.81004"
+     inkscape:cx="49.266804"
      inkscape:cy="490.83385"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -62,7 +62,9 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>u</dc:title>
+        <dc:title>U</dc:title>
+        <cc:license
+           rdf:resource="" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

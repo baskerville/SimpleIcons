@@ -1,0 +1,13 @@
+StartChar: X
+Encoding: 88 88 27
+Width: 1024
+SplineSet
+0 435 m 1
+ 0 179 l 1
+ 192 179 l 1
+ 448 -77 l 1
+ 448 691 l 1
+ 192 435 l 1
+ 0 435 l 1
+EndSplineSet
+EndChar

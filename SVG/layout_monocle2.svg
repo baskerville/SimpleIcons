@@ -14,9 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="layout_monocle2.svg">
+   sodipodi:docname="New document 1">
   <title
-     id="title3041">M</title>
+     id="title2998">M</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,30 +26,30 @@
      borderopacity="0.70196078"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="153.92229"
-     inkscape:cy="491.42858"
+     inkscape:zoom="0.7"
+     inkscape:cx="466.42857"
+     inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      showborder="true"
-     inkscape:window-width="1892"
-     inkscape:window-height="1028"
-     inkscape:window-x="19"
-     inkscape:window-y="34"
+     inkscape:window-width="1694"
+     inkscape:window-height="962"
+     inkscape:window-x="49"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
-     inkscape:object-nodes="true">
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
-       empspacing="4"
+       empspacing="8"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="0px"
-       spacingx="64px"
-       spacingy="64px" />
+       spacingx="32px"
+       spacingy="32px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -60,8 +60,6 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>M</dc:title>
-        <cc:license
-           rdf:resource="" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,8 +70,9 @@
      transform="translate(0,-28.362183)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 128 0 C 57.088 0 0 57.088009 0 128 L 0 512 L 0 896 L 0 1024 L 128 1024 L 896 1024 L 1024 1024 L 1024 896 L 1024 512 L 1024 128 C 1024 57.088009 966.912 9.4739031e-15 896 0 L 128 0 z M 64 128 L 960 128 L 960 960 L 64 960 L 64 128 z M 256 256 C 220.544 256 192 284.544 192 320 L 192 768 C 192 803.456 220.544 832 256 832 L 768 832 C 803.456 832 832 803.456 832 768 L 832 320 C 832 284.544 803.456 256 768 256 L 256 256 z "
-       transform="translate(0,28.362183)"
-       id="path3045" />
+       d="m 320,348.36218 64,0 128,192 128,-192 64,0 0,384 -64,0 0,-288 -128,192 -128,-192 0,288 -64,0 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

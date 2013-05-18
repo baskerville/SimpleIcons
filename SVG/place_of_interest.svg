@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="place_of_interest.svg">
+  <title
+     id="title4060">P</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#959595"
+     bordercolor="#000000"
+     borderopacity="0.70196078"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="572.78309"
+     inkscape:cy="451.42857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-width="1694"
+     inkscape:window-height="962"
+     inkscape:window-x="49"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       spacingx="64px"
+       spacingy="64px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>P</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 202.65625 0 C 90.72663 0 -1.8947806e-14 90.72664 0 202.65625 C 0 314.58587 90.72663 405.34375 202.65625 405.34375 L 309.34375 405.34375 L 309.34375 618.65625 L 202.65625 618.65625 C 90.72662 618.65625 1.8947806e-14 709.41413 0 821.34375 C 0 933.27335 90.72662 1024 202.65625 1024 C 314.58587 1024 405.34375 933.27335 405.34375 821.34375 L 405.34375 714.65625 L 618.65625 714.65625 L 618.65625 821.34375 C 618.65625 933.27336 709.41413 1024 821.34375 1024 C 933.27337 1024 1024 933.27336 1024 821.34375 C 1024 709.41413 933.27337 618.65625 821.34375 618.65625 L 714.65625 618.65625 L 714.65625 405.34375 L 821.34375 405.34375 C 933.27336 405.34375 1024 314.58587 1024 202.65625 C 1024 90.72663 933.27336 3.7895613e-14 821.34375 0 C 709.41413 0 618.65625 90.72663 618.65625 202.65625 L 618.65625 309.34375 L 405.34375 309.34375 L 405.34375 202.65625 C 405.34375 90.72664 314.58587 3.7895613e-14 202.65625 0 z M 202.65625 96 C 261.56653 96 309.34375 143.74597 309.34375 202.65625 L 309.34375 309.34375 L 202.65625 309.34375 C 143.74597 309.34375 96 261.56654 96 202.65625 C 96 143.74597 143.74597 96 202.65625 96 z M 821.34375 96 C 880.25403 96 928 143.74597 928 202.65625 C 928 261.56653 880.25403 309.34375 821.34375 309.34375 L 714.65625 309.34375 L 714.65625 202.65625 C 714.65625 143.74597 762.43346 96 821.34375 96 z M 405.34375 405.34375 L 618.65625 405.34375 L 618.65625 618.65625 L 405.34375 618.65625 L 405.34375 405.34375 z M 202.65625 714.65625 L 309.34375 714.65625 L 309.34375 821.34375 C 309.34375 880.25403 261.56654 928 202.65625 928 C 143.74597 928 96 880.25403 96 821.34375 C 96 762.43347 143.74597 714.65625 202.65625 714.65625 z M 714.65625 714.65625 L 821.34375 714.65625 C 880.25403 714.65625 928 762.43346 928 821.34375 C 928 880.25403 880.25403 928 821.34375 928 C 762.43347 928 714.65625 880.25403 714.65625 821.34375 L 714.65625 714.65625 z "
+       transform="translate(0,28.362183)"
+       id="path3940-6" />
+  </g>
+</svg>

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="layout_monocle2.svg">
+   sodipodi:docname="layout_tiled2.svg">
   <title
      id="title3029">T</title>
   <defs
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="466.42857"
-     inkscape:cy="520"
+     inkscape:cx="255"
+     inkscape:cy="451.42857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,10 +69,11 @@
      id="layer1"
      transform="translate(0,-28.362183)">
     <path
+       id="path10142"
+       transform="translate(0,28.362183)"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 320,320 384,0 0,64 -160,0 0,320 -64,0 0,-320 -160,0 z"
-       id="path3027"
+       d="M 512,128 C 299.92266,128 128,299.92266 128,512 128,724.07734 299.92266,896 512,896 724.07734,896 896,724.07734 896,512 896,299.92266 724.07734,128 512,128 z m -224,192 448,0 0,128 -160,0 0,256 -128,0 0,-256 -160,0 z"
        inkscape:connector-curvature="0"
-       transform="translate(0,28.362183)" />
+       sodipodi:nodetypes="sssssccccccccc" />
   </g>
 </svg>

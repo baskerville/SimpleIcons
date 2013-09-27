@@ -14,9 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="layout_monocle2.svg">
+   sodipodi:docname="layout_floating.svg">
   <title
-     id="title2998">M</title>
+     id="title10165">F</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="245"
+     inkscape:cx="448.57143"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,8 +36,8 @@
      showborder="true"
      inkscape:window-width="1694"
      inkscape:window-height="962"
-     inkscape:window-x="49"
-     inkscape:window-y="39"
+     inkscape:window-x="95"
+     inkscape:window-y="77"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>M</dc:title>
+        <dc:title>F</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,11 +69,8 @@
      id="layer1"
      transform="translate(0,-28.362183)">
     <path
-       id="path10246"
-       transform="translate(0,28.362183)"
+       id="path10140"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 896,512 C 896,724.07734 724.07734,896 512,896 299.92266,896 128,724.07734 128,512 128,299.92266 299.92266,128 512,128 c 212.07734,0 384,171.92266 384,384 z m -608,192 128,0 0,-224 96,128 96,-128 0,224 128,0 0,-384 -128,0 -96,128 -96,-128 -128,0 z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssccccccccccccc" />
+       d="m 352,316.36218 320,0 0,96 -192,0 0,64 128,0 0,96 -128,0 0,192 -128,0 z m 160,-160 c -212.07734,0 -384,171.92266 -384,384 0,212.07734 171.92266,384 384,384 212.07734,0 384,-171.92266 384,-384 0,-212.07734 -171.92266,-384 -384,-384 z" />
   </g>
 </svg>
